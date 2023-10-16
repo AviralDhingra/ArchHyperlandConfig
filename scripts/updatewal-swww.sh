@@ -12,7 +12,7 @@
 # ----------------------------------------------------- 
 # Select random wallpaper and create color scheme
 # ----------------------------------------------------- 
-wal -q -i ~/wallpaper/
+wal -i ~/wallpaper/abstract_2.jpg
 
 # ----------------------------------------------------- 
 # Load current pywal color scheme

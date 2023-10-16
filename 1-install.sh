@@ -77,7 +77,7 @@ packagesPacman=(
     "pacman-contrib"
     "alacritty" 
     "rofi" 
-    "chromium" 
+    "firefox" 
     "nitrogen" 
     "dunst" 
     "starship"
@@ -86,7 +86,6 @@ packagesPacman=(
     "freerdp" 
     "xfce4-power-manager" 
     "thunar" 
-    "mousepad" 
     "ttf-font-awesome" 
     "ttf-fira-sans" 
     "ttf-fira-code" 
@@ -110,7 +109,6 @@ packagesPacman=(
 );
 
 packagesYay=(
-    "brave-bin" 
     "pfetch" 
     "bibata-cursor-theme" 
     "trizen"
